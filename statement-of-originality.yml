@@ -1,0 +1,49 @@
+declaration: >-
+  I declare that everything I have submitted in this project is entirely my
+  own work, with the following exceptions:
+
+code:
+  - comment: function setGradient() used in drawing the background images is adapted from one of the p5.js examples.
+    url: https://p5js.org/examples/color-linear-gradient.html
+    licence: Official example, free for public use.
+
+
+assets:
+  - comment: Poetsen One is a 100% free font by Rodrigo Fuenzalida.
+    url: https://dl.dafont.com/dl/?f=poetsen_one
+    licence: Free for personal and commercial use.
+
+  - comment: scene1.mp3
+    url: http://soundbible.com/1936-Crisp-Ocean-Waves.html
+    licence: Attribution 3.0
+
+  - comment: scene2.mp3
+    url: http://www.orangefreesounds.com/early-morning-park-ambience/
+    licence: Public domain
+
+  - comment: scene3.mp3
+    url: http://soundbible.com/1779-Brush-Fire.html
+    licence: Permitted for non-commercial use under license "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)".
+
+  - comment: campfire.mp3
+    url: https://dl.dafont.com/dl/?f=poetsen_one
+    licence: Noncommercial 3.0
+
+  - comment: cloud.png
+    url: https://pngtree.com/freepng/cartoon-beautiful-white-clouds_64852.html
+    licence: Free downloaded, free for personal and public use. No permission for commercial use.
+
+  - comment: chicken_item.png, chicken0.png, chicken1.png, chicken2.png, chicken3.png belong to a LAN game I ran three years ago.
+    licence: Only for my personal and public use.
+
+  - comment: tree0.png, tree1.png, tree2.png, tree3.png, tree4.png, coconut_tree.png, coconut.png, bush0.png, bush1.png, bush2.png, 
+             starfish.png, timber.png, leaves0.png, mushroom_item.png, mushroom1.png, mushroom2.png, lotus1.png, lotus2.png, lotus3.png 
+             are bought online.
+    url: https://item.taobao.com/item.htm?spm=a1z09.2.0.0.11ba2e8dU9iXYt&id=43587229732&_u=bjuveiq30ef
+    licence: Only for personal and public use. No permission for commercial use.
+  
+  - comment: camp.png, bag.png, arrow_down.png, arrow_left.png, arrow_right.png, corn_item.png, corn_land0.png, corn_land1.png, corn_land2.png, 
+             corn_land3.png, tomato_item.png, tomato_land1.png, tomato_land2.png, tomato_land3.png, saw.png, saw_item.png, knife.png, knife_item.png, 
+             roast0.png, roast1.png, roast2.png, roast3.png, fire1.png, fire2.png, fire3.png are bought online.
+    url: https://item.taobao.com/item.htm?spm=a1z09.2.0.0.11ba2e8dU9iXYt&id=539927946262&_u=bjuveiq0e2a
+    licence: Only for personal and public use. No permission for commercial use.
